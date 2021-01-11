@@ -1,0 +1,193 @@
+.g-row{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding-left: 20px;
+}
+.g-row-3 {
+    height: 218px;
+    background-color: #babcef;
+    color: white;
+}
+.g-row-3-banphimtrai{
+    max-width: 604px;
+    font-size: 12px;
+    float: left;
+    display: block;
+    width:60%;
+    /* background-color: rgb(182 197 249); */
+    height: 200px;
+    margin-left: 50px;
+}
+.g-row-3-banphimphai{
+    max-width: 378px;
+    float: left;
+    display: block;
+    width:39%;
+    /* background-color: #b5b5ec; */
+    height: 200px;
+    margin-left: 154px;
+}
+.phim{
+    width:35px;
+    height:35px;
+    display: block;
+    float: left;
+    margin: 2px;
+    background-color: #2b2b2b;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.phimbackspace{
+    padding-top: 3px;
+    width:75px;
+    height:35px;
+    /* background-color: black; */
+    display: block;
+    float: left;
+    margin: 2px;
+    background-color: #2b2b2b;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.hangphim{
+    display: flex;
+    width:100%;
+    height:38px;
+    margin: 4px;
+}
+.hangphimphai{
+    display: flex;
+    width:100%;
+    height:48px;
+    margin: 4px;
+}
+.hangphimphaicuoi{
+    display: flex;
+    height:48px;
+    padding-left: 112px;
+}
+.spacebanphimphai{
+    border-radius: 7px;
+    width:100%;
+    background-color: black;
+}
+.phimphai{
+    text-align: center;
+    width:35px;
+    height:45px;
+    background-color: black;
+    display: block;
+    float: left;
+    margin: 2px;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.nuaphimtren{
+    padding-top: 2px;
+    width:100%;
+    height:50%;
+    text-align: center;
+}
+.nuaphimduoi{
+    width:100%;
+    height:50%;
+    text-align: left  ;
+    font-size: 9;
+}
+.phimmotminh{
+    width:100%;
+    height:100%;
+    text-align: center  ;
+}
+.backspace{
+    padding-top: 9px;
+    /* width:100%;
+    height:100%; */
+    text-align: center;
+    /* box-shadow: 1px 3px black; */
+    border-radius: 7px;
+}
+.phimtab{
+    text-align: center;
+    width:55px;
+    height:35px;
+    display: block;
+    float: left;
+    margin: 2px;
+    background-color: #2b2b2b;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.phimcapslock{
+    width:70px;
+    height:35px;
+    display: block;
+    float: left;
+    margin: 2px;
+    background-color: #2b2b2b;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.phimenter{
+    text-align: center;
+    width:79px;
+    height:35px;
+    display: block;
+    float: left;
+    margin: 2px;
+    background-color: #2b2b2b;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.phimshift{
+    text-align: center;
+    width:94px;
+    height:35px;
+    display: block;
+    float: left;
+    margin: 2px;
+    background-color: #2b2b2b;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.phimspace{
+    text-align: center;
+    width:229px;
+    height:35px;
+    display: block;
+    float: left;
+    margin: 2px;
+    background-color: #2b2b2b;
+    box-shadow: 1px 3px black;
+    border-radius: 7px;
+}
+.g-row-3-bantaytrai{
+
+    /* float: left; */
+    /* display: block;
+    width:50%; 
+    /* background-color: red; */
+}
+.g-row-3-bantayphai{
+    float: left;
+    display: block;
+    width:25%;
+    /* background-color: blue; */
+    
+}
+.g-item{
+    /* float: left; */
+    display: inline;
+}
+.g-tieude{
+    /* background-color: rgb(179, 249, 163); */
+}
+.g-amcango{
+    background-color: rgb(179, 249, 163);
+}
+.spantime
+{
+cursor:pointer;
+color:white;
+background:black;
+}
